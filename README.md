@@ -62,9 +62,11 @@ python app.py
 Open your browser and go to http://127.0.0.1:5000/ to view the Home page, and navigate to http://127.0.0.1:5000/additional to view the Additional page.
 
 Customization
+
 - Navbar: The navbar in base.html can be customized by editing the <nav> section.
 - Pages: Add more pages by creating new HTML files in the templates/ directory and adding corresponding routes in app.py.
 - Styles: Customize the site's appearance by modifying static/css/styles.css.<br>
+
 File Descriptions
 - app.py: Contains the Flask routes and logic for serving the web pages.
 - templates/base.html: The base HTML file that defines the site's structure and navbar.
