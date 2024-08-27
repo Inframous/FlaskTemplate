@@ -3,7 +3,7 @@
 This is a simple Flask site template with a base layout. This template is designed to help you quickly set up a basic Flask web application.
 
 ## Project Structure
-
+```bash
 /flask_site
 │
 ├── app.py
@@ -14,7 +14,7 @@ This is a simple Flask site template with a base layout. This template is design
 └── static
     └── css
         └── styles.css
-
+```
 
 - **`app.py`**: The main Flask application file that handles routing.
 - **`templates/`**: Directory containing the HTML templates.
