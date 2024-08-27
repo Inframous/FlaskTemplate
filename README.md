@@ -59,7 +59,7 @@ Run the Flask application:
 python app.py
 ```
 
-Open your browser and go to http://127.0.0.1:5000/ to view the Home page, and navigate to http://127.0.0.1:5000/additional to view the Additional page.
+Open your browser and go to http://127.0.0.1:5000/ to view the Home page.
 
 Customization
 
@@ -73,5 +73,6 @@ File Descriptions
 - templates/home.html: The Home page that displays a welcome message.
 - templates/additional.html: A secondary page with its own content.
 - static/css/styles.css: CSS styles for the site's layout, including the navbar.
+
 License
 This project is open source and available under the MIT License.
